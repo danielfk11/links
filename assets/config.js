@@ -29,6 +29,11 @@ let config = {
       "icon_classes": "fab fa-instagram"
     },
     {
+      "Title": "Spotify",
+      "URL": "https://open.spotify.com/user/00tdcp9uyrw17pu9kew9se6r4?si=d82b6b0ae1024d4d",
+      "icon_classes": "fab fa-spotify"
+    },
+    {
       "Title": "LinkedIn",
       "URL": "https://www.linkedin.com/in/daniel-kiffer-320820234/",
       "icon_classes": "fab fa-linkedin"
