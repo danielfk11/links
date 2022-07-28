@@ -5,7 +5,7 @@ let config = {
   "links": [
     {
       "Title": "Website",
-      "URL": "http://www.harindu.dev",
+      "URL": "https://danielfk11.github.io/danny/",
       "icon_classes": "fas fa-link",
     },
     {
